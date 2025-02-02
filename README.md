@@ -10,7 +10,8 @@ Software to organize events (scheduling, handling of paymennts, ...)
 - [CTA](https://eoscta.docs.cern.ch/latest/): distributed storage system written in C++ for archival of data on tape media (biggest installation 1 exabyte).
 - [FTS](https://fts.web.cern.ch/fts/): software written in C++/Python to orchestrate reliable and large-scale data transfers.
 - [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
-
+- [Reva](): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
+  
 ## Digital repositories
 - [Invenio](https://inveniosoftware.org): Open Source framework for large-scale digital repositories written in Python.
 
