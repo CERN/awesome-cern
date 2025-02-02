@@ -1,2 +1,17 @@
 # awesome-cern
-A curated list of awesome open source frameworks, libraries and software developed by CERN for the wolrd
+An opinionated curated list of awesome open source frameworks, libraries and software developed by CERN for the world.
+
+## Event/Conference management
+Software to organize events (scheduling, handling of paymennts, ...)
+- [Indico](https://getindico.io): feature-rich general event management system
+
+## Storage systems
+- [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
+- [CTA](https://eoscta.docs.cern.ch/latest/): distributed storage system written in C++ for archival of data on tape media (biggest installation 1 exabyte).
+- [FTS](https://fts.web.cern.ch/fts/): software to orchestrate reliable and large-scale data transfers.
+- [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
+
+## Digital repositories
+- [Invenio](https://inveniosoftware.org): Open Source framework for large-scale digital repositories
+
+
