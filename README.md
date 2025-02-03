@@ -4,9 +4,10 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ## Open Science
 
 ### Digital repositories
-- [Invenio](https://inveniosoftware.org): framework for large-scale digital repositories written in Python.
+- [InvenioRDM](https://inveniosoftware.org/products/rdm/): turn-key research data management (RDM) digital repository platform based on [Invenio Framework](https://inveniosoftware.org/products/framework/) and [Zenodo](https://www.zenodo.org/), written in Python and React.
+- [InvenioILS](https://inveniosoftware.org/products/ils/): a modern and user-friendly integrated library system, written in Python and React.
 - [Open Data Portal](https://github.com/cernopendata): highly curated repository of high energy physics (UI and server), written in Python.
-- [Zenodo](https://github.com/zenodo/zenodo): Research. Shared. An open dependable home for the long-tail of science.
+- [Zenodo](https://github.com/zenodo/zenodo-rdm): Research. Shared. An open dependable home for the long-tail of science.
 
 ### Event Management
 - [Indico](https://getindico.io): feature-rich general event management system written in Python.
@@ -23,7 +24,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 ### Data management
 - [FTS](https://fts.web.cern.ch/fts/): software written in C++/Python to orchestrate reliable and large-scale data transfers.
-- [Rucio](https://rucio.cern.ch): software written in Python to manage large volumes of data spread across data centres 
+- [Rucio](https://rucio.cern.ch): software written in Python to manage large volumes of data spread across data centres
 
 ### Storage systems
 - [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
@@ -31,3 +32,9 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [CVMFS](https://cernvm.cern.ch/filesystem/): a scalable, reliable and low-maintenance software distribution service.
 - [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
 - [Reva](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
+
+
+## Libraries
+
+- [React-SearchKit](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
+- [react-overridable](https://github.com/indico/react-overridable): Overridable React components.
