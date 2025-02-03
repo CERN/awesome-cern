@@ -2,7 +2,7 @@
 An opinionated curated list of awesome open source frameworks, libraries and software developed by CERN for the world.
 
 ## Event/Conference management
-Software to organize events (scheduling, handling of paymennts, ...)
+Software to organize events (scheduling, handling of payments, ...)
 - [Indico](https://getindico.io): feature-rich general event management system written in Python.
 - [newdle](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
 
