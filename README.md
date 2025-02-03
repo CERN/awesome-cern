@@ -4,6 +4,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ## Event/Conference management
 Software to organize events (scheduling, handling of paymennts, ...)
 - [Indico](https://getindico.io): feature-rich general event management system written in Python.
+- [newdle](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
 
 ## Storage systems
 - [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
@@ -15,5 +16,7 @@ Software to organize events (scheduling, handling of paymennts, ...)
 ## Digital repositories
 - [Invenio](https://inveniosoftware.org): framework for large-scale digital repositories written in Python.
 - [Open Data Portal](https://github.com/cernopendata): highly curated repository of high engegy physics (UI and server), written in Python.
+- [Zenodo](https://github.com/zenodo/zenodo): Research. Shared. An open dependable home for the long-tail of science.
 
-
+## Physics/mathematics analysis/simulation
+- [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
