@@ -18,7 +18,7 @@ Software to organize events (scheduling, handling of payments, ...)
   
 ## Digital repositories
 - [Invenio](https://inveniosoftware.org): framework for large-scale digital repositories written in Python.
-- [Open Data Portal](https://github.com/cernopendata): highly curated repository of high engegy physics (UI and server), written in Python.
+- [Open Data Portal](https://github.com/cernopendata): highly curated repository of high energy physics (UI and server), written in Python.
 - [Zenodo](https://github.com/zenodo/zenodo): Research. Shared. An open dependable home for the long-tail of science.
 
 ## Physics/mathematics analysis/simulation
