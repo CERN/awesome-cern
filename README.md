@@ -24,7 +24,8 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 ### Data management
 - [FTS](https://fts.web.cern.ch/fts/): software written in C++/Python to orchestrate reliable and large-scale data transfers.
-- [Rucio](https://rucio.cern.ch): software written in Python to manage large volumes of data spread across data centres
+- [Rucio](https://rucio.cern.ch): software written in Python to manage large volumes of data spread across data centres.
+- [Davix](https://davix.web.cern.ch/): toolkit for file operations over HTTP and Cloud protocols (written in C++).
 
 ### Storage systems
 - [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
