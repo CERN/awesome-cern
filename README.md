@@ -14,6 +14,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 
 ## Physics/mathematics analysis/simulation
+- [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
 - [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
 
 
@@ -26,5 +27,6 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ### Storage systems
 - [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
 - [CTA](https://eoscta.docs.cern.ch/latest/): distributed storage system written in C++ for archival of data on tape media (biggest installation 1 exabyte).
+- [CVMFS](https://cernvm.cern.ch/filesystem/): a scalable, reliable and low-maintenance software distribution service.
 - [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
 - [Reva](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
