@@ -13,16 +13,16 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [Indico](https://getindico.io): feature-rich general event management system written in Python.
 - [newdle](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
 
-
 ## Physics/mathematics analysis/simulation
 - [ACTS](https://github.com/acts-project/acts): Experiment-independent toolkit for (charged) particle track reconstruction in high energy an nuclear physics experiments
 - [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
+- [CAiMIRA](https://github.com/CERN/CAiMIRA/): CERN Airborne Model for Indoor Risk Assessment, a tool developed to assess and model the concentration of airborne viruses in enclosed spaces, specifically focusing on the SARS-CoV-2 virus. Documentation available [here](https://caimira.docs.cern.ch/).
 - [Geant4](https://geant4.web.cern.ch/): Toolkit for the simulation of the passage of particles through matter.
 - [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
 
-## Security 
+## Security
 - [pam_2fa](https://github.com/CERN-CERT/pam_2fa): PAM 2FA module provides a second factor authentication, to be combined with the standard PAM-based password.
-  
+
 ## Storage and Data
 
 ### Data management
@@ -42,7 +42,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ### Flask
 - [flask-multipass](https://github.com/indico/flask-multipass): multi-backend authentication system for Flask
 - [flask-pluginEngine](https://github.com/indico/flask-pluginengine/): a simple plugin system for Flask applications
-- [js-flask-urls](https://github.com/indico/js-flask-urls): get Flask blueprint URLs in your JS apps, the clean way 
+- [js-flask-urls](https://github.com/indico/js-flask-urls): get Flask blueprint URLs in your JS apps, the clean way
 
 ### UI
 - [react-jsx-i18N](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
