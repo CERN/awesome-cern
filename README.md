@@ -35,6 +35,8 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
 - [Reva](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
 
+### Security 
+- [pam_2fa](https://github.com/CERN-CERT/pam_2fa): PAM 2FA module provides a second factor authentication, to be combined with the standard PAM-based password.
 
 ## Libraries
 
