@@ -15,6 +15,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 
 ## Physics/mathematics analysis/simulation
+- [ACTS](https://github.com/acts-project/acts): Experiment-independent toolkit for (charged) particle track reconstruction in high energy an nuclear physics experiments
 - [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
 - [Geant4](https://geant4.web.cern.ch/): Toolkit for the simulation of the passage of particles through matter.
 - [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
