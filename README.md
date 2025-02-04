@@ -39,5 +39,12 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 ## Libraries
 
-- [React-SearchKit](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
+### Flask
+- [flask-multipass](https://github.com/indico/flask-multipass): multi-backend authentication system for Flask
+- [flask-pluginEngine](https://github.com/indico/flask-pluginengine/): a simple plugin system for Flask applications
+- [js-flask-urls](https://github.com/indico/js-flask-urls): get Flask blueprint URLs in your JS apps, the clean way 
+
+### UI
+- [react-jsx-i18N](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
 - [react-overridable](https://github.com/indico/react-overridable): Overridable React components.
+- [React-SearchKit](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
