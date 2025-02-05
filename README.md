@@ -1,6 +1,9 @@
 # awesome-cern
 An opinionated curated list of awesome open source frameworks, libraries and software developed by CERN for the world.
 
+## Engineering
+- [EAM Light](https://eam-opensource.web.cern.ch/content/eam-light): light-weight web application for HxGN EAM.
+
 ## Open Science
 
 ### Digital repositories
