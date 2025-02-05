@@ -37,6 +37,9 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
 - [Reva](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
 
+## Engineering
+- [EAM Light](https://eam-opensource.web.cern.ch/content/eam-light): light-weight web application for HxGN EAM.
+
 ## Libraries
 
 ### Flask
