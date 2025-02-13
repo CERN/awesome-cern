@@ -4,9 +4,10 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ## Open Science
 
 ### Digital repositories
-- [InvenioRDM](https://inveniosoftware.org/products/rdm/): turn-key research data management (RDM) digital repository platform based on [Invenio Framework](https://inveniosoftware.org/products/framework/) and [Zenodo](https://www.zenodo.org/), written in Python and React.
 - [InvenioILS](https://inveniosoftware.org/products/ils/): a modern and user-friendly integrated library system, written in Python and React.
+- [InvenioRDM](https://inveniosoftware.org/products/rdm/): turn-key research data management (RDM) digital repository platform based on [Invenio Framework](https://inveniosoftware.org/products/framework/) and [Zenodo](https://www.zenodo.org/), written in Python and React.
 - [Open Data Portal](https://github.com/cernopendata): highly curated repository of high energy physics (UI and server), written in Python.
+- [REANA](https://reana.io/): a reproducible research data analysis platform.
 - [Zenodo](https://github.com/zenodo/zenodo-rdm): Research. Shared. An open dependable home for the long-tail of science.
 
 ### Event Management
