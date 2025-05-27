@@ -52,4 +52,5 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 ### UI
 - [react-jsx-i18N](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
 - [react-overridable](https://github.com/indico/react-overridable): Overridable React components.
+- [react-openapi-generator-hook](https://github.com/CERN/react-openapi-generator-hook): React library to simplify API calls using OpenApi Generator.
 - [React-SearchKit](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
