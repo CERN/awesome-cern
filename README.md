@@ -22,6 +22,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
 - [CAiMIRA](https://github.com/CERN/CAiMIRA/): CERN Airborne Model for Indoor Risk Assessment, a tool developed to assess and model the concentration of airborne viruses in enclosed spaces, specifically focusing on the SARS-CoV-2 virus. Documentation available [here](https://caimira.docs.cern.ch/).
 - [Geant4](https://geant4.web.cern.ch/): Toolkit for the simulation of the passage of particles through matter.
+- [GeoModel](https://geomodel.web.cern.ch): GeoModel - A Detector Description Toolkit for HEP experiments.
 - [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
 - [Xsuite](https://xsuite.web.cern.ch): A collection of Python packages for simulating beam dynamics in particle accelerators with support of different computing platforms, such as OpenMP and various GPU frameworks.
 
